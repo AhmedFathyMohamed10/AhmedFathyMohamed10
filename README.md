@@ -84,13 +84,10 @@
 - Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,idea,vscode,postman,linux" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,idea,vscode,postman,linux,azure,react,vue" />
   </a>
 </p>
 
 <br/>
-
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
-
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
