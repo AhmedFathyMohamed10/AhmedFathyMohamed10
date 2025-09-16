@@ -28,7 +28,7 @@
 
 ### 🌌 Connect With Me
 <p align="center">
-  <a href="[https://linkedin.com/in/ahmedfathyukq](https://www.linkedin.com/in/ahmed-fathy-cyparta/)" target="_blank">
+  <a href="https://www.linkedin.com/in/ahmed-fathy-cyparta/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
   </a>
   <a href="mailto:ahmedfathhy011@gmail.com">
