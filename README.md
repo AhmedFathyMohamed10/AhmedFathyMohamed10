@@ -1,79 +1,71 @@
-<!-- Futuristic Animated GitHub Profile -->
+<!-- Minimalist Dark Elegant GitHub Profile -->
 
-<img align="left" src="https://user-images.githubusercontent.com/74038190/213911283-7b1d04b4-b7f5-4c9c-84f6-6b24c37b9a3c.gif" width="25%">
-<img align="right" src="https://user-images.githubusercontent.com/74038190/213911283-7b1d04b4-b7f5-4c9c-84f6-6b24c37b9a3c.gif" width="25%">
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=⚡+Hey+there,+I'm+Ahmed+Fathy+Mohamed+⚡;Full-Stack+Developer+%F0%9F%9A%80;Passionate+Tech+Explorer+%F0%9F%8C%90;Python+%7C+Django+%7C+DevOps" />
-</h1>
+<h1 align="center">👋 Hi, I'm <span style="color:#4CAF50">Ahmed Fathy Mohamed</span></h1>
+<h3 align="center">Full-Stack Developer | Cloud Enthusiast | Tech Explorer</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Code-Python%20%7C%20Django%20%7C%20Node%20%7C%20React-00f0ff?style=for-the-badge&logo=github" />
-  <img src="https://komarev.com/ghpvc/?username=AhmedFathyMohamed10&color=brightgreen&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/AhmedFathyMohamed10?label=Followers&logo=github&style=for-the-badge" />
+  <img src="https://user-images.githubusercontent.com/74038190/236098024-5aee3fcb-b9e6-4f3c-84e4-f471c3c7a9b5.gif" width="400"/>
 </p>
 
 ---
 
-### 🧑‍🚀 About Me
-🌍 From **Banha, Egypt**  
-💻 Working at **MersalGlobal IT**  
-📚 Currently learning **Django + Cloud Engineering**  
-🎨 Exploring **AI, Web 3.0, and Microservices**  
-⚡ Fun fact: *I debug with coffee ☕ and memes 😅*
-
-<img align="right" alt="Coding" width="420" src="https://user-images.githubusercontent.com/74038190/216834957-5e78f238-08a0-4d7a-9f0b-65b73b3c9b42.gif">
+### 🌱 About Me
+- 🔭 Working on **Realtime Socket Chat Apps**
+- 🌱 Learning **Django + Cloud Infrastructure**
+- 💬 Ask me about **Python, Django, and DevOps**
+- 📫 Reach me at: **ahmedfathhy011@gmail.com**
+- ⚡ Fun fact: *I debug faster when lo-fi music is on 🎶*
 
 ---
 
-### 🌌 Connect With Me
+### 🌍 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/ahmed-fathy-cyparta/" target="_blank">
+  <a href="https://linkedin.com/in/ahmedfathyukq">
     <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
   </a>
   <a href="mailto:ahmedfathhy011@gmail.com">
-    <img src="https://img.icons8.com/color/452/gmail-new.png" width="45"/>
+    <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+  </a>
+  <a href="https://github.com/AhmedFathyMohamed10">
+    <img src="https://skillicons.dev/icons?i=github" height="45"/>
   </a>
 </p>
 
 ---
 
-### 🚀 Tech Universe
+### 🛠️ Tech Stack
 
-#### 🛠 Backend
-<img src="https://skillicons.dev/icons?i=django,flask,fastapi,express" />
+#### 🔙 Backend  
+<img src="https://skillicons.dev/icons?i=django,flask,fastapi" />
 
-#### 🎨 Frontend
-<img src="https://skillicons.dev/icons?i=react,vue,ts,tailwind,js" />
+#### 🎨 Frontend  
+<img src="https://skillicons.dev/icons?i=react,vue,ts,tailwind" />
 
-#### 🗄 Databases
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite" />
+#### 🗄 Databases  
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" />
 
-#### ☁ Cloud & DevOps
-<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes" />
+#### ☁ DevOps & Cloud  
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,gcp" />
 
-#### 🧰 Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux" />
+#### ⚒ Tools  
+<img src="https://skillicons.dev/icons?i=git,github,linux,postman,vscode,figma" />
 
 ---
 
-### 📊 Stats & Activity
+### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmedFathyMohamed10&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedFathyMohamed10&theme=tokyonight&hide_border=true&background=0d1117" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedFathyMohamed10&theme=react-dark&hide_border=true&bg_color=0d1117" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AhmedFathyMohamed10&show_icons=true&theme=github_dark&hide_border=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedFathyMohamed10&theme=github-dark&hide_border=true" height="180"/>
 </p>
 
 ---
 
-### 🐍 Contribution Snake
+### 🎵 Vibes While Coding
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake" />
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31h7mc37nib2g5awt5a5kxwq5mgi&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" alt="Spotify Now Playing"/>
 </p>
 
 ---
 
-<h3 align="center">⚡ Code. Debug. Coffee. Repeat. ⚡</h3>
+### 🌊 Animated Divider
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4CAF50,100:81C784&height=120&section=footer"/>
