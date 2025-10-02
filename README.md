@@ -17,7 +17,7 @@
 
 ### 🧑‍🚀 About Me
 🌍 From **Banha, Egypt**  
-💻 Working at **MersalGlobal IT**  
+💻 Working at **Cyparta Software House**  
 📚 Currently learning **Django + Cloud Engineering**  
 🎨 Exploring **AI, Web 3.0, and Microservices**  
 ⚡ Fun fact: *I debug with coffee ☕ and memes 😅*
