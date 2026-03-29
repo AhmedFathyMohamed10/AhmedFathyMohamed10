@@ -7,7 +7,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/213911283-7b1d04b4-b7f5-4c9c-84f6-6b24c37b9a3c.gif" width="80px" />
 &nbsp;&nbsp;&nbsp;
 <a href="https://github.com/AhmedFathyMohamed10">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=22&duration=2800&pause=900&color=00F0FF&center=true&vCenter=true&width=620&lines=⚡+Full-Stack+Developer+%7C+3%2B+Years;🚀+Python+%7C+Django+%7C+React+%7C+Node.js;☁️+Cloud+Engineer+%7C+DevOps+Practitioner;🤖+AI+%26+Microservices+Enthusiast;🔥+Building+the+Future%2C+One+Commit+at+a+Time" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&duration=2800&pause=900&color=00F0FF&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%7C+3%2B+Years;Python+%7C+Django+%7C+React+%7C+Node.js;Cloud+Engineer+%7C+DevOps+Practitioner;AI+%26+Microservices+Enthusiast;Building+the+Future%2C+One+Commit+at+a+Time" alt="Typing SVG" />
 </a>
 &nbsp;&nbsp;&nbsp;
 <img src="https://user-images.githubusercontent.com/74038190/213911283-7b1d04b4-b7f5-4c9c-84f6-6b24c37b9a3c.gif" width="80px" />
