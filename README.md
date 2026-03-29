@@ -190,9 +190,9 @@
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=AhmedFathyMohamed10&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&icon_color=7f00ff&text_color=c9d1d9&ring_color=00f0ff&count_private=true" height="180" />
+<img src="https://github-readme-stats-salesp07.vercel.app/api?username=AhmedFathyMohamed10&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&icon_color=7f00ff&text_color=c9d1d9&ring_color=00f0ff&count_private=true" height="180" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedFathyMohamed10&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&text_color=c9d1d9" height="180" />
+<img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=AhmedFathyMohamed10&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&text_color=c9d1d9&langs_count=8" height="180" />
 
 <br/><br/>
 
